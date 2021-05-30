@@ -16,8 +16,8 @@
     }
     /* 写法一：类名之间有空格，选择器选择到的元素是：
     <element class="slide-caption">
-    ...
-    <h3> 
+        ...
+            <h3> 
     */
     
     .slide-caption.left{
@@ -26,8 +26,6 @@
     }
     /* 写法二：类名之间没有空格，选择器选择到的元素是：
     <element class="slide-caption left">
-    ...
-    <h3>
     */
     ```
 
